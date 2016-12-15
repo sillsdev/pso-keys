@@ -1,0 +1,12 @@
+Source: pso-keys
+Section: misc
+Priority: extra
+Maintainer: MarkS <marksvc@gmail.com>
+Build-Depends: debhelper
+Standards-Version: 3.9.5
+Homepage: http://packages.sil.org/
+
+Package: pso-keys
+Architecture: all
+Depends:
+Description: packages.sil.org signing public keys
